@@ -1,2 +1,3 @@
 # Ignore generated results (models, logs, outputs)
 results/
+info/
